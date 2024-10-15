@@ -1,9 +1,0 @@
-D:\C#\C# Assignment\OOPS\OrderManagemenySystem,DatabaseConnection\bin\Debug\OrderManagemenySystem,DatabaseConnection.dll
-D:\C#\C# Assignment\OOPS\OrderManagemenySystem,DatabaseConnection\bin\Debug\OrderManagemenySystem,DatabaseConnection.pdb
-D:\C#\C# Assignment\OOPS\OrderManagemenySystem,DatabaseConnection\bin\Debug\OrderManagementSystem.Entitiy.dll
-D:\C#\C# Assignment\OOPS\OrderManagemenySystem,DatabaseConnection\bin\Debug\OrderManagementSystem.Entitiy.pdb
-D:\C#\C# Assignment\OOPS\OrderManagemenySystem,DatabaseConnection\obj\Debug\OrderManagemenySystem.DatabaseConnection.csproj.AssemblyReference.cache
-D:\C#\C# Assignment\OOPS\OrderManagemenySystem,DatabaseConnection\obj\Debug\OrderManagemenySystem.DatabaseConnection.csproj.CoreCompileInputs.cache
-D:\C#\C# Assignment\OOPS\OrderManagemenySystem,DatabaseConnection\obj\Debug\OrderM.A51C3450.Up2Date
-D:\C#\C# Assignment\OOPS\OrderManagemenySystem,DatabaseConnection\obj\Debug\OrderManagemenySystem,DatabaseConnection.dll
-D:\C#\C# Assignment\OOPS\OrderManagemenySystem,DatabaseConnection\obj\Debug\OrderManagemenySystem,DatabaseConnection.pdb

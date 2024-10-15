@@ -1,6 +1,0 @@
-D:\C#\C# Assignment\OOPS\OrderManagementSystem.Entitiy\bin\Debug\OrderManagementSystem.Entitiy.dll
-D:\C#\C# Assignment\OOPS\OrderManagementSystem.Entitiy\bin\Debug\OrderManagementSystem.Entitiy.pdb
-D:\C#\C# Assignment\OOPS\OrderManagementSystem.Entitiy\obj\Debug\OrderManagementSystem.Entitiy.csproj.AssemblyReference.cache
-D:\C#\C# Assignment\OOPS\OrderManagementSystem.Entitiy\obj\Debug\OrderManagementSystem.Entitiy.csproj.CoreCompileInputs.cache
-D:\C#\C# Assignment\OOPS\OrderManagementSystem.Entitiy\obj\Debug\OrderManagementSystem.Entitiy.dll
-D:\C#\C# Assignment\OOPS\OrderManagementSystem.Entitiy\obj\Debug\OrderManagementSystem.Entitiy.pdb
