@@ -1,0 +1,11 @@
+D:\C#\C# Assignment\OOPS\OrderManagementSystem.BusinessLayer\obj\Debug\OrderManagementSystem.BusinessLayer.csproj.AssemblyReference.cache
+D:\C#\C# Assignment\OOPS\OrderManagementSystem.BusinessLayer\obj\Debug\OrderManagementSystem.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\C#\C# Assignment\OOPS\OrderManagementSystem.BusinessLayer\bin\Debug\OrderManagementSystem.BusinessLayer.dll
+D:\C#\C# Assignment\OOPS\OrderManagementSystem.BusinessLayer\bin\Debug\OrderManagementSystem.BusinessLayer.pdb
+D:\C#\C# Assignment\OOPS\OrderManagementSystem.BusinessLayer\bin\Debug\OrderManagementSystem.Entitiy.dll
+D:\C#\C# Assignment\OOPS\OrderManagementSystem.BusinessLayer\bin\Debug\OrderManagementSystem.Entitiy.pdb
+D:\C#\C# Assignment\OOPS\OrderManagementSystem.BusinessLayer\obj\Debug\OrderM.EF0F93B8.Up2Date
+D:\C#\C# Assignment\OOPS\OrderManagementSystem.BusinessLayer\obj\Debug\OrderManagementSystem.BusinessLayer.dll
+D:\C#\C# Assignment\OOPS\OrderManagementSystem.BusinessLayer\obj\Debug\OrderManagementSystem.BusinessLayer.pdb
+D:\C#\C# Assignment\OOPS\OrderManagementSystem.BusinessLayer\bin\Debug\OrderManagemenySystem,DatabaseConnection.dll
+D:\C#\C# Assignment\OOPS\OrderManagementSystem.BusinessLayer\bin\Debug\OrderManagemenySystem,DatabaseConnection.pdb

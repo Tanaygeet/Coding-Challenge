@@ -1,0 +1,14 @@
+D:\C#\C# Assignment\OOPS\OrderManagementSystem.UI\obj\Debug\OrderManagementSystem.UI.csproj.AssemblyReference.cache
+D:\C#\C# Assignment\OOPS\OrderManagementSystem.UI\obj\Debug\OrderManagementSystem.UI.csproj.CoreCompileInputs.cache
+D:\C#\C# Assignment\OOPS\OrderManagementSystem.UI\bin\Debug\OrderManagementSystem.UI.exe.config
+D:\C#\C# Assignment\OOPS\OrderManagementSystem.UI\bin\Debug\OrderManagementSystem.UI.exe
+D:\C#\C# Assignment\OOPS\OrderManagementSystem.UI\bin\Debug\OrderManagementSystem.UI.pdb
+D:\C#\C# Assignment\OOPS\OrderManagementSystem.UI\bin\Debug\OrderManagementSystem.BusinessLayer.dll
+D:\C#\C# Assignment\OOPS\OrderManagementSystem.UI\bin\Debug\OrderManagementSystem.Entitiy.dll
+D:\C#\C# Assignment\OOPS\OrderManagementSystem.UI\bin\Debug\OrderManagementSystem.BusinessLayer.pdb
+D:\C#\C# Assignment\OOPS\OrderManagementSystem.UI\bin\Debug\OrderManagementSystem.Entitiy.pdb
+D:\C#\C# Assignment\OOPS\OrderManagementSystem.UI\obj\Debug\OrderM.76B64441.Up2Date
+D:\C#\C# Assignment\OOPS\OrderManagementSystem.UI\obj\Debug\OrderManagementSystem.UI.exe
+D:\C#\C# Assignment\OOPS\OrderManagementSystem.UI\obj\Debug\OrderManagementSystem.UI.pdb
+D:\C#\C# Assignment\OOPS\OrderManagementSystem.UI\bin\Debug\OrderManagemenySystem,DatabaseConnection.dll
+D:\C#\C# Assignment\OOPS\OrderManagementSystem.UI\bin\Debug\OrderManagemenySystem,DatabaseConnection.pdb
